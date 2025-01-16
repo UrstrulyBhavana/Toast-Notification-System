@@ -31,3 +31,6 @@ HTML: Structure of the toast container and buttons.
 CSS: Styling for animations, icons, and progress bars.
 
 JavaScript: Logic for dynamically generating and managing notifications.
+
+
+![Image](https://github.com/user-attachments/assets/ba09d2f2-6d9c-4126-9eec-fd0aa1eb72f6)
